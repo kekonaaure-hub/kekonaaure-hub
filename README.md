@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**kekonaaure-hub/kekonaaure-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Aiden and I am currently a freshman at WSU majoring in Computer Science.
+
+
 
 Here are some ideas to get you started:
 
